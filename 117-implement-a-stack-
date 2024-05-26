@@ -1,0 +1,23 @@
+public class Stack {
+    
+    
+    public void push(Object obj) {
+        //implement push
+    }
+    
+    public Object pop() {
+        //implement pop
+    }
+    
+    public Integer size() {
+        //implement size
+    }
+    
+    public Object peek(){
+        //implement peek
+    }
+    
+    public Boolean isEmpty() {
+        //implement isEmpty
+    }
+}
